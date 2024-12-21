@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nyanta-23&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Nyanta-23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyanta-23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyanta-23&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
