@@ -3,7 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nyanta-23&theme=tokyonight&hide_border=false&card_width=500)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nyanta-23&theme=tokyonight&hide_border=false&card_width=450)
 ![](https://github-readme-stats.vercel.app/api?username=Nyanta-23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=300)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyanta-23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
 
