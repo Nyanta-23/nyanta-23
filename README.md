@@ -1,4 +1,4 @@
-# 📈 I'm Currently Learning:
+# 📈 On Progress Learning:
 
 <div id="badges" align="center">
   <a href="https://laravel.com">
